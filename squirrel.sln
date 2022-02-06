@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sq", "sq\sq.vcxproj", "{FE768E55-888E-4C63-B27B-D09E44EFA9B6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sqstdlib", "sqstdlib\sqstdlib.vcxproj", "{AA530CC3-01AC-44AD-ACCC-D620D0FC79C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "squirrel", "squirrel\squirrel.vcxproj", "{F2B727F6-7C43-4D9D-8B8F-B7557A99AF2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE768E55-888E-4C63-B27B-D09E44EFA9B6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FE768E55-888E-4C63-B27B-D09E44EFA9B6}.Debug|Win32.Build.0 = Debug|Win32
+		{FE768E55-888E-4C63-B27B-D09E44EFA9B6}.Release|Win32.ActiveCfg = Release|Win32
+		{FE768E55-888E-4C63-B27B-D09E44EFA9B6}.Release|Win32.Build.0 = Release|Win32
+		{AA530CC3-01AC-44AD-ACCC-D620D0FC79C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AA530CC3-01AC-44AD-ACCC-D620D0FC79C3}.Debug|Win32.Build.0 = Debug|Win32
+		{AA530CC3-01AC-44AD-ACCC-D620D0FC79C3}.Release|Win32.ActiveCfg = Release|Win32
+		{AA530CC3-01AC-44AD-ACCC-D620D0FC79C3}.Release|Win32.Build.0 = Release|Win32
+		{F2B727F6-7C43-4D9D-8B8F-B7557A99AF2A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2B727F6-7C43-4D9D-8B8F-B7557A99AF2A}.Debug|Win32.Build.0 = Debug|Win32
+		{F2B727F6-7C43-4D9D-8B8F-B7557A99AF2A}.Release|Win32.ActiveCfg = Release|Win32
+		{F2B727F6-7C43-4D9D-8B8F-B7557A99AF2A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
